@@ -1,0 +1,35 @@
+'This will pop up questions to split a string with some character such as a dash or comma or whatever you want
+
+Sub InsertCharacter()
+'Updateby Extendoffice
+Dim Rng As Range
+Dim InputRng As Range, OutRng As Range
+Dim xRow As Integer
+Dim xChar As String
+Dim index As Integer
+Dim arr As Variant
+Dim xValue As String
+Dim outValue As String
+Dim xNum As Integer
+xTitleId = "KutoolsforExcel"
+Set InputRng = Application.Selection
+Set InputRng = Application.InputBox("Range :", xTitleId, InputRng.Address, Type:=8)
+xRow = Application.InputBox("Number of characters :", xTitleId, Type:=1)
+xChar = Application.InputBox("Specify a character :", xTitleId, Type:=2)
+Set OutRng = Application.InputBox("Out put to (single cell):", xTitleId, Type:=8)
+Set OutRng = OutRng.Range("A1")
+xNum = 1
+For Each Rng In InputRng
+    xValue = Rng.Value
+    outValue = ""
+    For index = 1 To VBA.Len(xValue)
+        If index Mod xRow = 0 And index <> VBA.Len(xValue) Then
+            outValue = outValue + VBA.Mid(xValue, index, 1) + xChar
+        Else
+            outValue = outValue + VBA.Mid(xValue, index, 1)
+        End If
+    Next
+    OutRng.Cells(xNum, 1).Value = outValue
+    xNum = xNum + 1
+Next
+End Sub
