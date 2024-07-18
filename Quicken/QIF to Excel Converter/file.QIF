@@ -1,0 +1,1572 @@
+!Type:Tag
+NArmando
+^
+NAVA
+^
+NBanco General
+^
+NBoquete
+^
+NBoquete 110-2
+DAll transactions related to House 110-2 in Samboni Alto Boquete
+^
+NBuxfer
+^
+NCaptiva
+^
+NDad
+^
+NDaira Lara
+DAny given amounts owed to Daira Lara
+^
+NDavivienda CO
+^
+NDavivienda CrediM
+^
+NDisney Plus
+^
+NEl Dorado Alto Boquete 1
+^
+NEnergy
+^
+NErnelda
+^
+NErnelda P2P 1
+DErnelda's JC loan 1
+^
+NErnelda P2P 2
+DErnelda's JC loan 2
+^
+NErnelda P2P 3
+DErnelda's ALV loan
+^
+NGaby
+^
+NINBS-119142-2022
+DPóliza de Seguro de Contenido
+^
+NJavier
+^
+NJavier Gómez
+^
+NJonathan
+^
+NJorge Branca
+^
+NJP Morgan Chase
+DUS Sending transfer fee
+^
+NLate Fee
+^
+NLatitude 7480
+DAny expense related to Latitude 7480
+^
+NLenovo Ideapad 81VS
+^
+NLucy
+^
+NLuis Felipe
+^
+NLuz Jarquien
+DAny payments related to Lucy
+^
+NLuz Jarquin
+^
+NMamá
+^
+NMazda 5
+^
+NMicrosoft 365 Family
+DMicrosoft 365 Family with OneDrive and Office included
+^
+NMiriam P2P 1
+^
+NMiriam P2P 2
+^
+NMiriam P2P 3
+^
+NMom
+DAny expenses associtated to Mom
+^
+NNestor
+^
+NNetflix
+DAny expense associated to Netflix
+^
+NNicolas de Federman
+^
+NNoviembre 2021
+^
+NOctubre 2021
+^
+NPaola
+^
+NPaypal
+^
+NRaisa
+^
+NRappi
+^
+NRaquel Lara
+^
+NRedmi Note 9
+^
+NRedmi Note 9Pro
+^
+NRedmi Note 9S
+^
+NRevilla
+^
+NRobertito
+^
+NRuby
+^
+NScotiabank Panama
+^
+NScotiabank Paycheck
+^
+NSeptiembre 2021
+^
+NTavo P2P 1
+^
+NTavo P2P 2
+^
+NTavo P2P 3
+^
+NThirdera
+^
+NTrash Collection Service
+^
+NVCOL1249842021
+DNúmero de póliza de seguro
+^
+NVeronica
+DAny expenses associated to my nephew
+^
+NVisa MileagePlus Platinum Select
+^
+NVisa Scotiabank
+^
+NWater & Trash Boquete
+^
+NWater Service
+^
+NYesenia Jarquin
+^
+NZobeida
+^
+!Type:Cat
+NBeneficios Empleador
+DBeneficios Empleador
+T
+R460
+I
+^
+NBeneficios Empleador:Dental
+DDental Plan Employer Benefit
+T
+R460
+I
+^
+NBeneficios Empleador:Médico
+DMedical Plan Employer Benefit
+T
+R460
+I
+^
+NBeneficios Empleador:Visión
+DVision Plan Employer Benefit
+T
+R460
+I
+^
+NBonus
+DBonus Income
+T
+R460
+I
+^
+NEmployer Benefit
+DEmployer Benefit
+T
+R460
+I
+^
+NEmployer Benefit:Dental
+DDental Plan Employer Benefit
+T
+R460
+I
+^
+NEmployer Benefit:Medical
+DMedical Plan Employer Benefit
+T
+R460
+I
+^
+NEmployer Benefit:Vision
+DVision Plan Employer Benefit
+T
+R460
+I
+^
+NIngresos por Dividendos
+DIngresos por Dividendos
+T
+R286
+I
+^
+NIngresos por Intereses
+DIngresos por Intereses
+R287
+I
+^
+NIngresos por Intereses:Intereses Bancarios
+DIntereses pagados por bancos
+R287
+I
+^
+NNet Salary
+DYour net paycheck after taxes and deductions.
+I
+^
+NOtros Ingresos
+DOtros Ingresos
+T
+R257
+I
+^
+NOtros Ingresos:Ajuste de Ingresos
+T
+R257
+I
+^
+NOtros Ingresos:Bonos
+DIngresos por Bonos
+T
+R460
+I
+^
+NOtros Ingresos:Ingreso por Transición
+DPara pagos de otras personas
+T
+R257
+I
+^
+NOtros Ingresos:Ingresos por Alquiler
+I
+^
+NOtros Ingresos:Pago de Seguro
+T
+R257
+I
+^
+NOtros Ingresos:Premios
+T
+R257
+I
+^
+NOtros Ingresos:Reembolsos
+T
+R257
+I
+^
+NOtros Ingresos:Tarjetas de Regalo
+DTarjetas de Regalo
+T
+R257
+I
+^
+NParticipación en los beneficios
+DParticipación en los beneficios
+T
+R460
+I
+^
+NProfit Sharing
+DProfit Sharing Income
+T
+R460
+I
+^
+NSalario
+DIngresos por Salarios
+T
+R460
+I
+^
+NSalario:Festivo
+DFestivo pagado
+T
+R460
+I
+^
+NSalario:Horas Extra
+T
+R460
+I
+^
+NSalario:Incapacidad
+DIncapacidad médica
+T
+R460
+I
+^
+NSalario:Salario Bruto
+T
+R460
+I
+^
+NSalario:Salario Neto
+DSalario Neto
+I
+^
+NSalario:Vacaciones
+DVacaciones pagadas
+T
+R460
+I
+^
+NSalario:Viáticos
+T
+R460
+I
+^
+NSalario:XIII Mes
+T
+R460
+I
+^
+NSalario Neto Esposa
+DSalario Neto Esposa
+I
+^
+NSalary
+DSalary Income
+T
+R460
+I
+^
+NSalary:Holiday
+DPaid Holiday
+T
+R460
+I
+^
+NSalary:Sick Pay
+DPaid Sick Days
+T
+R460
+I
+^
+NSalary:Vacation
+DPaid Vacation
+T
+R460
+I
+^
+NServicios Profesionales
+I
+^
+NServicios Profesionales:Consultor Técnico
+I
+^
+NServicios Profesionales:Consultorías
+I
+^
+N_401Contrib
+D401k Contribution
+T
+R460
+I
+^
+N_401ContribSpouse
+D401k Spouse Contribution
+T
+R506
+I
+^
+N_401EmployerContrib
+D401k Employer contribution
+I
+^
+N_401EmployerContribSpouse
+D401k Spouse Employer contribution
+I
+^
+N_401Withdrawal
+D401k Withdrawal
+T
+I
+^
+N_401WithdrawalSpouse
+D401k Spouse Withdrawal
+T
+I
+^
+N_DepCareContrib
+DDependent Care Contribution
+T
+R460
+I
+^
+N_DivInc
+DDividend
+T
+R286
+I
+^
+N_DivIncTaxFree
+DTax-Free Dividend
+T
+R487
+I
+^
+N_EmpStkOptInc
+DEmployee Stock Option Inc
+T
+R460
+I
+^
+N_EmpStkOptIncSpouse
+DEmployee Stock Option Inc for Spouse
+T
+R506
+I
+^
+N_ESPP Self Income
+DESPP Self Income
+T
+R460
+I
+^
+N_ESPP Spouse Income
+DESPP Spouse Income
+T
+R506
+I
+^
+N_FlexContrib
+DFlexible Account Contribution
+T
+R460
+I
+^
+N_IntInc
+DInvestment Interest Income
+T
+R287
+I
+^
+N_IntIncTaxFree
+DTax-Free Inv Interest Inc
+T
+R489
+I
+^
+N_LT CapGnDst
+DLong Term Cap Gain Dist
+T
+R488
+I
+^
+N_MT CapGnDst
+DMid Term Cap Gain Dist
+T
+R488
+I
+^
+N_QualDivInc
+DQualified Dividend
+T
+R683
+I
+^
+N_RlzdGain
+DRealized Gain/Loss
+T
+I
+^
+N_ST CapGnDst
+DShort Term Cap Gain Dist
+T
+R286
+I
+^
+N_UnrlzdGain
+DUnrealized Gain/Loss
+I
+^
+NAhorros de Pensión
+DAportes Pensión Privada
+E
+^
+NAhorros de Pensión:Aportes Pensión Privada
+E
+^
+NAlimentos y Comidas
+DAlimentos y Comidas
+E
+^
+NAlimentos y Comidas:Alcohol y Bares
+DAlcohol y Bares
+E
+^
+NAlimentos y Comidas:Cafeterías
+DCafeterías
+E
+^
+NAlimentos y Comidas:Café
+E
+^
+NAlimentos y Comidas:Chuches
+E
+^
+NAlimentos y Comidas:Comida Rápida
+DComida Rápida
+E
+^
+NAlimentos y Comidas:Domicilio
+E
+^
+NAlimentos y Comidas:Repostería
+E
+^
+NAlimentos y Comidas:Restaurantes
+DRestaurantes
+E
+^
+NAlimentos y Comidas:Víveres
+DVíveres
+E
+^
+NAVA
+E
+^
+NAVA:Gastos de AVA
+DMoney AVA transfer to My Account for Payments
+E
+^
+NCargos y Tarifas
+DCargos y Tarifas
+E
+^
+NCargos y Tarifas:Cargo Bancario
+DCargo Bancario
+E
+^
+NCargos y Tarifas:Cargo de ATM
+DCargo por uso de ATM
+E
+^
+NCargos y Tarifas:Cargo por ATM Internacional
+E
+^
+NCargos y Tarifas:Cargo por Atraso
+DCargo por Atraso
+E
+^
+NCargos y Tarifas:Cargo por Servicio
+DCargo por Servicio
+E
+^
+NCargos y Tarifas:Cargo por Transacción
+E
+^
+NCargos y Tarifas:Comisión Compra Moneda
+E
+^
+NCargos y Tarifas:Comisión de Trade
+DComisión de Trade
+E
+^
+NCompras
+DCompras
+E
+^
+NCompras:Artículos Deportivos
+DArtículos Deportivos
+E
+^
+NCompras:Bolsos, Carteras, Mochilas
+DBolsos, Carteras, Mochilas
+E
+^
+NCompras:Electrodomésticos
+E
+^
+NCompras:Electrónicos y Software
+DElectronics & Software
+E
+^
+NCompras:Joyeria
+E
+^
+NCompras:Libros
+DLibros
+E
+^
+NCompras:Perfumes
+E
+^
+NCompras:Ropa
+DRopa
+E
+^
+NCompras:Suveniers
+E
+^
+NCompras:Zapatos
+DCualquier tipo de zapatos
+E
+^
+NCuidado Personal
+DCuidado Personal
+E
+^
+NCuidado Personal:Cabello
+DCabello
+E
+^
+NCuidado Personal:Cejas
+E
+^
+NCuidado Personal:Cosméticos
+E
+^
+NCuidado Personal:Spa y Masaje
+DSpa y Masaje
+E
+^
+NCuidado Personal:Tintoreria
+DTintoreria
+E
+^
+NCuidado Personal:Uñas
+E
+^
+NDepositos a Ahorros
+DDepositos a Ahorros
+E
+^
+NEducación
+DGastos asociados a educación
+E
+^
+NEducación:Cursos
+E
+^
+NEducación:Excursiones - Salidas
+E
+^
+NEducación:Libros y Suministros
+DLibros y Suministros
+E
+^
+NEducación:Matrícula
+DMatrícula o Mensualidades
+E
+^
+NEducación:Meriendas
+DGastos de meriendas
+E
+^
+NEducación:Otros Gastos Educativos
+E
+^
+NEducación:Student Loan
+DStudent Loan
+E
+^
+NEducación:Transporte
+DTransporte relacionado con la escuela o la universidad
+E
+^
+NEducación:Uniformes
+E
+^
+NEfectivo & ATM
+DEfectivo & ATM
+E
+^
+NEnergía
+E
+^
+NEntretenimiento
+DEntretenimiento
+E
+^
+NEntretenimiento:Artes
+DArtes
+E
+^
+NEntretenimiento:Conciertos & Eventos
+E
+^
+NEntretenimiento:Diarios y Revistas
+DDiarios y Revistas
+E
+^
+NEntretenimiento:Diversión
+DDiversión
+E
+^
+NEntretenimiento:Música
+DMúsica
+E
+^
+NEntretenimiento:Teatro y Cine
+DGastos de treatro y cine, excepto comida
+E
+^
+NFacturas y Servicios
+DFacturas y Servicios
+E
+^
+NFacturas y Servicios:Acueducto
+E
+^
+NFacturas y Servicios:Gas
+DNatural o GLP
+E
+^
+NFacturas y Servicios:Internet
+E
+^
+NFacturas y Servicios:Recolección de Basura
+DRecolección de Basura
+E
+^
+NFacturas y Servicios:Servicio Celular
+DMobile Phone
+E
+^
+NFacturas y Servicios:Servicio de Energía
+DServicio de Energía
+E
+^
+NFacturas y Servicios:Servicios de Streaming
+DAny streaming service like Netflix, Primevideo, etc.
+E
+^
+NFacturas y Servicios:Suscripciones
+DOtros que no sean streamning
+E
+^
+NFacturas y Servicios:Television
+DTelevision
+E
+^
+NFacturas y Servicios:Teléfono
+E
+^
+NFacturas y Servicios:TV por Cable
+E
+^
+NGastos Financieros
+DGastos Financieros
+E
+^
+NGastos Financieros:Asesoría Financiera
+DAsesoría Financiera
+T
+R282
+E
+^
+NGastos Financieros:Comisiones
+E
+^
+NGastos Financieros:Membresía Tarjeta
+DMembresía
+E
+^
+NGastos Financieros:Recargos
+E
+^
+NGastos Financieros:Seguro de Desgravemen
+DSeguro de vida de TC
+E
+^
+NGastos Financieros:Seguro de Fraude
+DSeguro de Fraude
+E
+^
+NGastos Legales y Oficiales
+E
+^
+NGastos Legales y Oficiales:Abogados
+E
+^
+NGastos Legales y Oficiales:Apostillas
+E
+^
+NGastos Legales y Oficiales:Consular
+E
+^
+NGastos Legales y Oficiales:Notarías
+E
+^
+NGastos Legales y Oficiales:Traducciones
+E
+^
+NHogar
+DHogar
+E
+^
+NHogar:Administración
+DAdministración
+E
+^
+NHogar:Alquiler
+DAlquiler
+E
+^
+NHogar:Césped y Jardín
+DCésped y jardín
+E
+^
+NHogar:Deposito Alquiler
+E
+^
+NHogar:Hipoteca
+DHipoteca
+E
+^
+NHogar:Mejoras del Hogar
+DMejoras del Hogar
+E
+^
+NHogar:Mobiliario
+DMobiliario
+E
+^
+NHogar:Reparaciones
+E
+^
+NHogar:Seguro de Incencio
+DSeguros del hogar
+E
+^
+NHogar:Seguro de Incencio:Seguro de Contenido
+E
+^
+NHogar:Seguro de Incencio:Seguro de Robo
+E
+^
+NHogar:Servicios del Hogar
+DHome Services
+E
+^
+NHogar:Suministros del Hogar
+DCompras y gastos que no sean víveres
+E
+^
+NImpuestos
+DImpuestos
+T
+E
+^
+NImpuestos:Imp Seguro Educativo
+DDGI Panama Seguro Educativo
+T
+E
+^
+NImpuestos:Impuesto Nacional
+DImpuesto Nacional
+T
+R461
+E
+^
+NImpuestos:Impuesto Sobre Inmueble
+DImpuesto Sobre Inmueble
+T
+R276
+E
+^
+NImpuestos:Impuesto Sobre la Renta
+DImpuesto Sobre la Renta
+T
+E
+^
+NImpuestos:ITBMS
+DAny ITMBS over any product or service
+T
+E
+^
+NImpuestos:IVA
+DColombia 19% IVA
+T
+E
+^
+NImpuestos:Medicare
+DMedicare Tax
+T
+R480
+E
+^
+NImpuestos:Operation Notice Tax
+T
+E
+^
+NImpuestos:Other
+DLocal or other taxes.
+T
+E
+^
+NImpuestos:Retefuente
+T
+E
+^
+NImpuestos:Reteica
+T
+E
+^
+NImpuestos:SDI
+DState Disability Insurance
+T
+R463
+E
+^
+NImpuestos:Seguro Social
+T
+E
+^
+NImpuestos:Soc Sec
+DSocial Security Tax
+T
+R462
+E
+^
+NImpuestos:State
+DState Tax
+T
+R464
+E
+^
+NKids
+DKids
+E
+^
+NKids:Baby Supplies
+DBaby Supplies
+E
+^
+NKids:Babysitter & Daycare
+DBabysitter & Daycare
+T
+R401
+E
+^
+NKids:Child Support
+DChild Support
+E
+^
+NKids:Kids Activities
+DKids Activities
+E
+^
+NKids:Toys
+DToys
+E
+^
+NLoan Payment
+DLoan Payment
+E
+^
+NLoan Payment:Interest
+DLoan Interest
+T
+E
+^
+NLoan Payment:Principal
+DLoan Principal
+E
+^
+NMascotas
+DPets
+E
+^
+NMascotas:Pet Food & Supplies
+DPet Food & Supplies
+E
+^
+NMascotas:Pet Grooming
+DPet Grooming
+E
+^
+NMascotas:Vet
+DVet
+E
+^
+NMascotas:Viajes
+E
+^
+NMisc.
+DMiscellaneous Expenses
+E
+^
+NNot Sure
+DExpenses I am not sure about.
+E
+^
+NNot Sure:Not Sure
+E
+^
+NOtros Gastos
+DGastos poco comunes
+E
+^
+NOtros Gastos:Abono
+E
+^
+NOtros Gastos:Ajuste de Gasto
+E
+^
+NOtros Gastos:Cargos de Envío
+E
+^
+NOtros Gastos:Cargos de Inmigración
+E
+^
+NOtros Gastos:Depreciación
+E
+^
+NOtros Gastos:Domicilio
+E
+^
+NOtros Gastos:Gastos de Bolsillo
+E
+^
+NOtros Gastos:Loteria
+E
+^
+NOtros Gastos:Membresía Anual
+E
+^
+NOtros Gastos:Navidad o Año Nuevo
+DGastos de fiestas de fin de año
+E
+^
+NOtros Gastos:Propinas
+E
+^
+NOtros Gastos:Seguridad Web
+E
+^
+NOtros Gastos Familiares
+E
+^
+NOtros Gastos Familiares:Aficiones
+DAficiones
+E
+^
+NOtros Gastos Familiares:Ayudas Familiares
+DCualquier ayuda familiar
+E
+^
+NOtros Gastos Familiares:Cumpleaños
+E
+^
+NOtros Gastos Familiares:Fotografias
+E
+^
+NOtros Gastos Familiares:Mesadas
+DMesadas
+E
+^
+NOtros Gastos Familiares:Ocio
+E
+^
+NOtros Gastos Familiares:Otros Gastos Familiares
+E
+^
+NOtros Gastos Familiares:Viajes De Placer
+E
+^
+NPréstamos y Créditos
+DPagos y Gastos de Créditos y Préstamos
+E
+^
+NPréstamos y Créditos:Intereses de Préstamos
+DIntereses de Préstamos
+T
+E
+^
+NPréstamos y Créditos:Intereses P2P
+E
+^
+NPréstamos y Créditos:Intereses Tarjeta de Crédito
+DIntereses Tarjeta de Crédito
+E
+^
+NPréstamos y Créditos:Pago a Capital
+DPago a Capital
+E
+^
+NPréstamos y Créditos:Pago de Tarj. de Crédito
+DPago de Tarj. de Crédito
+E
+^
+NPréstamos y Créditos:Préstamos - Otros cargos
+DCualquier otro cargo de préstamos
+E
+^
+NPréstamos y Créditos:Seguro de Desgravemen (TC)
+DSeguro de Vida de Tarjeta de Crédito
+E
+^
+NPréstamos y Créditos:Seguro de Vida Préstamo
+DLoan Life Insurance
+E
+^
+NRegalos y Donaciones
+DRegalos y Donaciones
+E
+^
+NRegalos y Donaciones:Caridad
+DCaridad
+T
+R280
+E
+^
+NRegalos y Donaciones:Regalos
+DRegalos
+E
+^
+NSalud y Bienestar
+DSalud y Bienestar
+E
+^
+NSalud y Bienestar:Anteojos
+E
+^
+NSalud y Bienestar:Asesor Nutricional
+E
+^
+NSalud y Bienestar:Atención Médica
+E
+^
+NSalud y Bienestar:Cuidado Personal
+DSpa, Uñas, Cabello, otros
+E
+^
+NSalud y Bienestar:Cuidados de los Ojos
+DCuidados de los Ojos
+T
+R484
+E
+^
+NSalud y Bienestar:Dentista
+DDentista
+T
+R484
+E
+^
+NSalud y Bienestar:Deportes
+DDeportes
+E
+^
+NSalud y Bienestar:Doctor
+DDoctor
+T
+R484
+E
+^
+NSalud y Bienestar:Exámenes Médicos
+DExámenes Médicos
+E
+^
+NSalud y Bienestar:Farmacia
+DFarmacia (no medicamentos)
+E
+^
+NSalud y Bienestar:Gimnasio
+DGimnasio
+E
+^
+NSalud y Bienestar:Medicamentos
+E
+^
+NSalud y Bienestar:Seguro de Salud
+DSeguro de Salud
+E
+^
+NSalud y Bienestar:Suplementos
+DAny king of health supplements
+E
+^
+NSalud y Bienestar:Terapeuta
+E
+^
+NSeguros Personales
+E
+^
+NSeguros Personales:Seguro de Vida
+E
+^
+NTax
+DTaxes
+T
+E
+^
+NTax:FECI
+T
+E
+^
+NTax:Fed
+DFederal Tax
+T
+R461
+E
+^
+NTax:Medicare
+DMedicare Tax
+T
+R480
+E
+^
+NTax:Other
+DLocal or other taxes.
+T
+E
+^
+NTax:SDI
+DState Disability Insurance
+T
+R463
+E
+^
+NTax:Soc Sec
+DSocial Security Tax
+T
+R462
+E
+^
+NTax:State
+DState Tax
+T
+R464
+E
+^
+NVehículo y Transporte
+DCarro & Transporte
+E
+^
+NVehículo y Transporte:Alquiler de Vehículo y Taxis
+DAlquiler de Vehículo y Taxis cuando NO se está de viaje
+E
+^
+NVehículo y Transporte:Car Wash
+DCar Wash
+E
+^
+NVehículo y Transporte:Combustible
+DCombustible
+E
+^
+NVehículo y Transporte:Cuidados del Carro
+E
+^
+NVehículo y Transporte:Estacionamiento
+DEstacionamiento
+E
+^
+NVehículo y Transporte:Impuesto Vehicular
+DPlaca
+E
+^
+NVehículo y Transporte:Infracciones
+E
+^
+NVehículo y Transporte:Mantenimiento
+E
+^
+NVehículo y Transporte:Pago de Vehiculo
+DPago de Vehiculo
+E
+^
+NVehículo y Transporte:Pago de Vehiculo:Capital
+DPago a capital de préstamo de vehiculo
+E
+^
+NVehículo y Transporte:Pago de Vehiculo:Intereses
+DIntereses de préstamo vehicular
+T
+E
+^
+NVehículo y Transporte:Peajes
+DPeajes
+E
+^
+NVehículo y Transporte:Registro Vehicular
+DRegistration for your automobile. Portions may be tax-deductible
+T
+R535
+E
+^
+NVehículo y Transporte:Repuestos y Servicios
+DRespuestos y Servicios
+E
+^
+NVehículo y Transporte:Revisado Anual
+E
+^
+NVehículo y Transporte:Seguro Vehicular
+DSeguro Vehicular
+E
+^
+NVehículo y Transporte:Transporte Público
+DTransporte Público
+E
+^
+NViajes
+DViajes
+E
+^
+NViajes:Alquiler de Vehículo y Taxis
+DGastos de alquiler de vehículo y taxis cuando se está de viajes
+E
+^
+NViajes:Gastos de Viaje
+E
+^
+NViajes:Hotel
+DHotel
+E
+^
+NViajes:Pasajes
+E
+^
+NViajes:Pasajes:Pasajes de Autobus
+E
+^
+NViajes:Pasajes:Pasajes de Avión
+DViajes por Aire
+E
+^
+NViajes:Pasajes:Pasajes de Barco
+E
+^
+NViajes:Pasajes:Pasajes de Tren
+E
+^
+NViajes:Pasaporte
+E
+^
+NViajes:Seguro de Viaje
+E
+^
+NViajes:Vacaciones
+DVacaciones
+E
+^
+N_401FedWithheld
+D401k Federal Tax Withheld
+T
+E
+^
+N_401FedWithheldSpouse
+D401k Spouse Federal Tax Withheld
+T
+E
+^
+N_401StateWithheld
+D401k State Tax Withheld
+T
+E
+^
+N_401StateWithheldSpouse
+D401k Spouse State Tax Withheld
+T
+E
+^
+N_401WithdrawalPenalty
+D401k Early Withdrawal Penalty
+T
+E
+^
+N_401WithdrawalPenaltySpouse
+D401k Spouse Early Withdrawal Penalty
+T
+E
+^
+N_Accrued Int
+DAccrued Interest
+T
+R287
+E
+^
+N_Accrued Int TaxFree
+DTax-Free Accrued Interest
+T
+R489
+E
+^
+N_IntExp
+DInvestment Interest Expenses
+T
+R426
+E
+^
+!Option:AutoSwitch
+!Account
+NBG - Flujo - Paola
+TBank
+^
+NBG - Principal
+TBank
+DCuenta de ahorros regular
+^
+NBG Metas 2470
+TBank
+DCuenta de flujo para Metas
+^
+NBG Navidad 4494
+TBank
+^
+NBG Seguros 3200
+TBank
+^
+NBOLD - Tránsito
+TBank
+^
+NDaviplata
+TBank
+^
+NDavivienda CO
+TBank
+^
+NDavivienda CO JK
+TBank
+DExclusively for Loan Payments
+^
+NDavivienda PA
+TBank
+^
+NNequi (COP)
+TBank
+^
+NPROFUTURO - NESTOR
+TBank
+^
+NPROFUTURO - PAOLA
+TBank
+^
+NSB - Planner
+TBank
+^
+NSB - Regular
+TBank
+DCuenta de ahorros regular
+^
+NTAP Global Bank
+TBank
+^
+NCMF
+TCCard
+L0.00
+^
+NCredi Jamar
+TCCard
+L0.00
+^
+NDavivienda eCard
+TCCard
+L0.00
+^
+NMileagePlus Platinum Paola
+TCCard
+L2,500.00
+^
+NVisa LifeMiles Scotiabank
+TCCard
+L7,200.00
+^
+NVisa MileagePlus B. General
+TCCard
+L6,300.00
+^
+NVisa Platinum Global Bank
+TCCard
+L0.00
+^
+NEfectivo (COP)
+TCash
+^
+NEfectivo (EUR)
+TCash
+^
+NEfectivo (USD)
+TCash
+^
+NChevrolet Captiva
+TOth A
+^
+NCxC - AVA USD
+TOth A
+^
+NCxC - Personal USD
+TOth A
+^
+NCxC - Servicios Prof.
+TOth A
+^
+NEntrada de coche eléctrico
+TOth A
+DSavings goal account
+^
+NMazda 5
+TOth A
+^
+NColpatria Libranza
+TOth L
+^
+NColsubsidio Payable
+T
+DColsubsidio loan payment
+^
+NCxP - AVA USD
+TOth L
+DAny money I owe to AVA
+^
+NCxP - Personal COP
+T
+^
+NCxP - Personal USD
+TOth L
+DAccount Payables Panama/USD
+^
+NDavivienda 1789
+TOth L
+^
+NDavivienda 5764
+TOth L
+^
+NDavivienda 6313
+TOth L
+^
+NDavivienda 7795
+TOth L
+^
+NDavivienda 9349
+TOth L
+^
+NPréstamo de Auto - BG
+TOth L
+^
+NPréstamo Personal - BG - 8971
+TOth L
+^
+NPréstamo Personal Global Tap
+TOth L
+^
+NPréstamos P2P - CO
+T
+^
+NPréstamos P2P - PA
+TOth L
+^
+NTranscolunsa Loan - Mazda 5
+T
+^
+!Clear:AutoSwitch
