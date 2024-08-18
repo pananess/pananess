@@ -1,3 +1,5 @@
+import sys
+
 def convert_csv_to_qif(csv_file, qif_file):
     with open(csv_file, 'r') as f_csv, open(qif_file, 'w') as f_qif:
         # Write QIF header
@@ -8,36 +10,16 @@ def convert_csv_to_qif(csv_file, qif_file):
             # Split CSV line into fields
             fields = line.strip().split(',')
 
-            # Ensure there are enough fields
-            if len(fields) < 3 or not fields[0]:
-                print(f"Skipping line due to invalid format: {line}")
-                continue
-
             # Extract data from CSV fields
-            date = fields[0]
-            memo = fields[1]
-            amount = fields[2]
+            date = fields[0]  # Assuming date is in the first column
+            memo = fields[1]  # Assuming memo is in the second column
+            amount = fields[2]  # Assuming amount is in the third column
 
-            try:
-                # Split the date by "/"
-                parts = date.split('/')
-                
-                # Ensure the date has month, day, and year
-                if len(parts) == 3:
-                    month, day, year = parts
-                else:
-                    raise ValueError("Incorrect date format")
-                    
-                # Pad month and day with leading zeros if necessary
-                month = month.zfill(2)
-                day = day.zfill(2)
-
-            except ValueError as e:
-                print(f"Skipping line due to incorrect date format: {date} ({e})")
-                continue
+            # Format date to MM/DD/YYYY
+            month, day, year = date.split('/')
+            date_qif = f"{month}/{day}/{year}"
 
             # Write transaction to QIF
-            date_qif = f"{month}/{day}/{year}"
             qif_entry = f"D{date_qif}\nT{amount}\nP\nM{memo}\n^\n"
             f_qif.write(qif_entry)
 

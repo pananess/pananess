@@ -19,5 +19,5 @@ def convert_ofx_to_qif(ofx_file_path, qif_file_path):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-# Example usage:
+# Call the function
 convert_ofx_to_qif('input.ofx', 'output.qif')
