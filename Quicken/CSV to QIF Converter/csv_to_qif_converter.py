@@ -5,22 +5,31 @@ def convert_csv_to_qif(csv_file, qif_file):
         # Write QIF header
         f_qif.write('!Type:Bank\n')
 
+        # Skip the header row in CSV
+        next(f_csv)
+
         # Read CSV and convert to QIF
         for line in f_csv:
             # Split CSV line into fields
             fields = line.strip().split(',')
 
-            # Extract data from CSV fields
-            date = fields[0]  # Assuming date is in the first column
-            memo = fields[1]  # Assuming memo is in the second column
-            amount = fields[2]  # Assuming amount is in the third column
+            # Check if the number of fields is correct (i.e., at least 4 fields)
+            if len(fields) < 4:
+                print(f"Skipping line due to missing fields: {line}")
+                continue  # Skip lines that do not have enough fields
 
-            # Format date to MM/DD/YYYY
+            # Extract data from CSV fields
+            date = fields[0]  # Date in first column
+            payee = fields[1] if fields[1].strip() else ''  # Handle missing payee (allow empty)
+            description = fields[2]  # Description in third column
+            amount = fields[3]  # Amount in fourth column
+
+            # Format date from MM/DD/YYYY
             month, day, year = date.split('/')
             date_qif = f"{month}/{day}/{year}"
 
-            # Write transaction to QIF
-            qif_entry = f"D{date_qif}\nT{amount}\nP\nM{memo}\n^\n"
+            # Write transaction to QIF, allowing empty Payee if necessary
+            qif_entry = f"D{date_qif}\nT{amount}\nP{payee}\nM{description}\n^\n"
             f_qif.write(qif_entry)
 
 if __name__ == "__main__":
